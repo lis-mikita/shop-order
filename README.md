@@ -35,4 +35,4 @@ Contributions to the ShopOrder project are welcome and encouraged! If you find a
 
 ## License
 
-The ShopOrder project is open-source software licensed under the [MIT license](LICENSE).
+The ShopOrder project is open-source software.
